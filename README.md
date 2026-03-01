@@ -1,7 +1,7 @@
 # Hey, I'm Aldren Arcenal 👋 — AI Architect & Adaptive Builder
 
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>](https://yourportfolio.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>](https://aldren-arcenal-portfolio.vercel.app/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/aldren-arcenal-a60ab2279/)
 
 ---
 
